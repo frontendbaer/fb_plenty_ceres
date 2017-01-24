@@ -1,12 +1,12 @@
 {
     "version"           : "0.1.0",
-    "name"              : "PluginCeres",
+    "name"              : "PluginCeresFB",
     "description"       : "plentymarkets webshop layout",
     "author"            : "plentymarkets GmbH",
     "keywords"          : ["plentymarkets", "plugins", "layout", "template", "ceres"],
     "type"              : "template",
     "require"           : [],
-    "namespace"         : "Ceres",
+    "namespace"         : "CeresFB",
     "serviceProvider"   : "Ceres\\Providers\\TemplateServiceProvider",
     "javaScriptFiles"   : [],
     "containers"        :
